@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Data Science and C++.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects related to ML and C++ development.
-- 📫 How to reach me : kasibsiddiqui@gmail.com
+- 📫 How to reach me : kasibsiddiqui1234@gmail.com
 
 <!---
 kasib12/kasib12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
