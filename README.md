@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kasib12
-- 👀 I’m interested in Machine Learning, Data Science and C++.
+- 👀 I’m interested in Machine Learning, Front-end and C++.
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on projects related to ML and C++ development.
+- 💞️ I’m looking to collaborate on projects related to these topics.
 - 📫 How to reach me : kasibsiddiqui1234@gmail.com
 
 <!---
